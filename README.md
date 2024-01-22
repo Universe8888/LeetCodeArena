@@ -28,10 +28,6 @@ Contributions to "LeetCodeArena" are welcome. Please make sure before contributi
 4. Push to the branch (`git push origin feature/YourFeatureName`).
 5. Open a new Pull Request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - LeetCode for provided me with a platform full of rich coding problems.
